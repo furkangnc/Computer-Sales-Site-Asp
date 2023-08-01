@@ -1,0 +1,28 @@
+D:\Bilgisayar Satış Sitesi\Bilgisayar Satış Sitesi\bin\Bilgisayar Satış Sitesi.dll
+D:\Bilgisayar Satış Sitesi\Bilgisayar Satış Sitesi\bin\Bilgisayar Satış Sitesi.pdb
+D:\Bilgisayar Satış Sitesi\Bilgisayar Satış Sitesi\obj\Debug\ResolveAssemblyReference.cache
+D:\Bilgisayar Satış Sitesi\Bilgisayar Satış Sitesi\obj\Debug\Bilgisayar Satış Sitesi.dll
+D:\Bilgisayar Satış Sitesi\Bilgisayar Satış Sitesi\obj\Debug\Bilgisayar Satış Sitesi.pdb
+D:\Bilgisayar Satış Sitesi2\Bilgisayar Satış Sitesi\bin\Bilgisayar Satış Sitesi.dll
+D:\Bilgisayar Satış Sitesi2\Bilgisayar Satış Sitesi\bin\Bilgisayar Satış Sitesi.pdb
+D:\Bilgisayar Satış Sitesi2\Bilgisayar Satış Sitesi\obj\Debug\ResolveAssemblyReference.cache
+D:\Bilgisayar Satış Sitesi2\Bilgisayar Satış Sitesi\obj\Debug\Bilgisayar Satış Sitesi.dll
+D:\Bilgisayar Satış Sitesi2\Bilgisayar Satış Sitesi\obj\Debug\Bilgisayar Satış Sitesi.pdb
+D:\Siteler\Bilgisayar Satış Sitesi2\Bilgisayar Satış Sitesi2\Bilgisayar Satış Sitesi\bin\Bilgisayar Satış Sitesi.dll
+D:\Siteler\Bilgisayar Satış Sitesi2\Bilgisayar Satış Sitesi2\Bilgisayar Satış Sitesi\bin\Bilgisayar Satış Sitesi.pdb
+D:\Siteler\Bilgisayar Satış Sitesi2\Bilgisayar Satış Sitesi2\Bilgisayar Satış Sitesi\obj\Debug\ResolveAssemblyReference.cache
+D:\Siteler\Bilgisayar Satış Sitesi2\Bilgisayar Satış Sitesi2\Bilgisayar Satış Sitesi\obj\Debug\Bilgisayar Satış Sitesi.dll
+D:\Siteler\Bilgisayar Satış Sitesi2\Bilgisayar Satış Sitesi2\Bilgisayar Satış Sitesi\obj\Debug\Bilgisayar Satış Sitesi.pdb
+D:\Siteler\Bilgisayar Satış Sitesi\Bilgisayar Satış Sitesi2\Bilgisayar Satış Sitesi\bin\Bilgisayar Satış Sitesi.dll
+D:\Siteler\Bilgisayar Satış Sitesi\Bilgisayar Satış Sitesi2\Bilgisayar Satış Sitesi\bin\Bilgisayar Satış Sitesi.pdb
+D:\Siteler\Bilgisayar Satış Sitesi\Bilgisayar Satış Sitesi2\Bilgisayar Satış Sitesi\obj\Debug\ResolveAssemblyReference.cache
+D:\Siteler\Bilgisayar Satış Sitesi\Bilgisayar Satış Sitesi2\Bilgisayar Satış Sitesi\obj\Debug\Bilgisayar Satış Sitesi.dll
+D:\Siteler\Bilgisayar Satış Sitesi\Bilgisayar Satış Sitesi2\Bilgisayar Satış Sitesi\obj\Debug\Bilgisayar Satış Sitesi.pdb
+C:\Users\h\Desktop\Bilgisayar Satış Sitesi\Bilgisayar Satış Sitesi2\Bilgisayar Satış Sitesi\bin\Bilgisayar Satış Sitesi.dll
+C:\Users\h\Desktop\Bilgisayar Satış Sitesi\Bilgisayar Satış Sitesi2\Bilgisayar Satış Sitesi\bin\Bilgisayar Satış Sitesi.pdb
+C:\Users\h\Desktop\Bilgisayar Satış Sitesi\Bilgisayar Satış Sitesi2\Bilgisayar Satış Sitesi\obj\Debug\Bilgisayar Satış Sitesi.dll
+C:\Users\h\Desktop\Bilgisayar Satış Sitesi\Bilgisayar Satış Sitesi2\Bilgisayar Satış Sitesi\obj\Debug\Bilgisayar Satış Sitesi.pdb
+C:\Users\h\Desktop\Bilgisayar Satış Sitesi\Bilgisayar Satış Sitesi\Bilgisayar Satış Sitesi\Bilgisayar Satış Sitesi2\Bilgisayar Satış Sitesi\bin\Bilgisayar Satış Sitesi.dll
+C:\Users\h\Desktop\Bilgisayar Satış Sitesi\Bilgisayar Satış Sitesi\Bilgisayar Satış Sitesi\Bilgisayar Satış Sitesi2\Bilgisayar Satış Sitesi\bin\Bilgisayar Satış Sitesi.pdb
+C:\Users\h\Desktop\Bilgisayar Satış Sitesi\Bilgisayar Satış Sitesi\Bilgisayar Satış Sitesi\Bilgisayar Satış Sitesi2\Bilgisayar Satış Sitesi\obj\Debug\Bilgisayar Satış Sitesi.dll
+C:\Users\h\Desktop\Bilgisayar Satış Sitesi\Bilgisayar Satış Sitesi\Bilgisayar Satış Sitesi\Bilgisayar Satış Sitesi2\Bilgisayar Satış Sitesi\obj\Debug\Bilgisayar Satış Sitesi.pdb

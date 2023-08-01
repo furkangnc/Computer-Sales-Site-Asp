@@ -1,0 +1,95 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Bilgisayar_Satış_Sitesi.SiteMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+    <title></title>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+
+        .style1
+        {
+            width: 100%;
+        }
+        .style2
+        {
+            color: #FFFFFF;
+            padding: 8px 0px 0px 0px;
+            margin: 0px auto;
+            text-align: center;
+            line-height: normal;
+        }
+    </style>
+</head>
+<body style="background-image: url('/Styles/arkaplan.png')">
+    <form runat="server">
+    <div class="page">
+        <div class="header">
+            <div class="clear hideSkiplink" 
+                style="background-image: url('/Styles/arkaplan.png')">
+                <table class="style1">
+                    <tr>
+                        <td>
+                            &nbsp;</td>
+                        <td>
+                            &nbsp;</td>
+                    </tr>
+                    <tr>
+                        <td>
+                <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="False" 
+                                IncludeStyleBlock="False" Orientation="Horizontal" BackColor="#F7F6F3" 
+                                DynamicHorizontalOffset="2" Font-Names="Verdana" Font-Size="0.8em" 
+                                ForeColor="#7C6F57" StaticSubMenuIndent="10px">
+                    <DynamicHoverStyle BackColor="#7C6F57" ForeColor="White" />
+                    <DynamicMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                    <DynamicMenuStyle BackColor="#F7F6F3" />
+                    <DynamicSelectedStyle BackColor="#5D7B9D" />
+                    <Items>
+                        <asp:MenuItem NavigateUrl="~/Default.aspx" Text="Anasayfa" Value="Anasayfa"/>
+                        <asp:MenuItem Text="Ürünler" Value="Ürünler">
+                            <asp:MenuItem NavigateUrl="~/Ürün Ara.aspx" Text="Ürün Ara" Value="Ürün Ara">
+                            </asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/Account/ürünEkle.aspx" Text="Ürün Ekleme" 
+                                Value="Ürün Ekleme"></asp:MenuItem>
+                        </asp:MenuItem>
+                        <asp:MenuItem Text="İletişim" Value="İletişim" NavigateUrl="~/İletişim.aspx"></asp:MenuItem>
+                        <asp:MenuItem Text="Ziyaretçi Defteri" Value="Ziyaretçi Defteri" 
+                            NavigateUrl="~/ZiyaretciDefteriSayfası.aspx"></asp:MenuItem>
+                        <asp:MenuItem Text="Hakkımızda" Value="Hakkımızda" 
+                            NavigateUrl="~/Hakkımızda.aspx"></asp:MenuItem>
+                    </Items>
+                    <StaticHoverStyle BackColor="#7C6F57" ForeColor="White" />
+                    <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                    <StaticSelectedStyle BackColor="#5D7B9D" />
+                </asp:Menu>
+                        </td>
+                        <td>
+                <asp:LoginView ID="HeadLoginView" runat="server">
+                    <AnonymousTemplate>
+                        [ <a href="~/Account/Login.aspx" ID="HeadLoginStatus0" runat="server">Üye Girişi</a> ]
+                    </AnonymousTemplate>
+                    <LoggedInTemplate>
+                        Hoşgeldiniz <span class="bold"><asp:LoginName ID="HeadLoginName" runat="server" /></span>!
+                        [ <asp:LoginStatus ID="HeadLoginStatus" runat="server" LogoutAction="Redirect" 
+                            LogoutText="Çıkış" LogoutPageUrl="~/Default.aspx" LoginText="Giriş"/> ]
+                    </LoggedInTemplate>
+                </asp:LoginView>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <div class="main">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"/>
+        </div>
+        <div class="clear" style="background-image: url('/Styles/arkaplan.png')">
+        </div>
+    </div>
+    <div class="style2">
+        
+        <strong>Bilgisayar Satış Merkezi</strong></div>
+    </form>
+</body>
+</html>
